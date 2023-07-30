@@ -1,1 +1,2 @@
 # RandomQuoteGenerator
+My first Full Stack Development project, Random Quote Generator, is a beginner-friendly project. I created this project to gain experience with HTML, CSS and JavaScript. This project made me understand the crux of JavaScript as well as I got to know about the DOM manipulation while creating this project. The main learning experience was how to connect the front end to the backend as well as how to make a website more appealing.
